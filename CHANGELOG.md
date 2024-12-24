@@ -1,4 +1,8 @@
 # Changelog
+
+24.12.240046
+- Added config for advize.PlantEasily
+
 24.12.240033
 - Update README file
 

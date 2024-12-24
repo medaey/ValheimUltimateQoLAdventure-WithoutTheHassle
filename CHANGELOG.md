@@ -1,5 +1,8 @@
 # Changelog
 
+24.12.242320
+- Update README file
+
 24.12.242315
 - Fix README file
 
@@ -11,9 +14,6 @@
 - Add config to QuickTapDodge
 - Add config to Azumatt.AzuSkillTweaks
 - Add config to xstorage
-
-24.12.242000
-- Update README
 
 24.12.241930
 - Added screenshots to README

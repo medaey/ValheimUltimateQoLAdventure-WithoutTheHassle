@@ -8,6 +8,7 @@ This modpack includes a variety of Quality of Life (QoL) mods, each carefully ch
 
 ## Mod Features
 
+- **Mod Configuration Customization**: Press **F1** to access the customization interface and adjust mod settings to your preferences
 - **Quick Teleportation**: Easily teleport to any location with the **OdinPlus-QuickTeleport** and **OdinPlus-TeleportEverything** mods.
 - **Storage Made Simple**: Use **XStorage** and **ItemDrawers** for an efficient and organized inventory system.
 - **Effortless Farming**: Plant and grow crops with ease using **Advize-PlantEverything** and **Advize-PlantEasily**.
@@ -30,6 +31,7 @@ Here are some screenshots showcasing the improvements in the modpack:
 
 ## Credits
 
+- **Special Thanks** to all the mod creators who contributed to the mods included in this pack!
 - **Mod Authors**:  
   - **Denikson**: BepInExPack for Valheim  
   - **OdinPlus**: QuickTeleport & TeleportEverything  
@@ -39,8 +41,6 @@ Here are some screenshots showcasing the improvements in the modpack:
   - **Advize**: Planting mods for easier farming  
   - **TastyChickenLegs**: Longer days for more gameplay time  
   - **Tekla**: QoLPins for in-game notifications
-
-- **Special Thanks** to all the mod creators who contributed to the mods included in this pack!
 
 ## Modpack Goals
 

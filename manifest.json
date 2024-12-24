@@ -1,9 +1,10 @@
 {
-    "name": "Valheim QoL Essentials",
-    "version_number": "24.12.241820",
+    "name": "Valheim_Ultimate_QoL_Adventure",
+    "version_number": "24.12.241847",
+    "website_url": "https://github.com/medaey/ValheimUltimateQoLAdventure-WithoutTheHassle",
     "description": "A mod pack designed to enhance Valheim's quality of life while preserving the core difficulty of the game. Simplifies farming, adds storage solutions.",
     "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.2202"
+        "denikson-BepInExPack_Valheim-5.4.2202",
         "OdinPlus-QuickTeleport-1.1.0",
         "ValheimModding-Jotunn-2.22.0",
         "MSchmoecker-MultiUserChest-0.6.0",

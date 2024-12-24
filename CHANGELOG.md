@@ -4,7 +4,6 @@
 - Added config for EquipWheel
 - Added config for AzuExtendedPlayerInventory
 - Added config for LongerDays 60%
-- Added config for AzuExtendedPlayerInventory
 - Changed DrawerPickupRange from 100 to 200
 - Removed mod Azumatt-Build_Camera_Custom_Hammers_Edition
 

@@ -1,5 +1,8 @@
 # Changelog
 
+24.12.240116
+- PlantEasily HarvestRadius increas 3 to 15
+
 24.12.240046
 - Added config for advize.PlantEasily
 

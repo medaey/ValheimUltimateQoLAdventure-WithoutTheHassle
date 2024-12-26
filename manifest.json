@@ -1,6 +1,6 @@
 {
     "name": "Valheim_Ultimate_QoL_Adventure",
-    "version_number": "24.12.260806",
+    "version_number": "24.12.262154",
     "website_url": "https://github.com/medaey/ValheimUltimateQoLAdventure-WithoutTheHassle",
     "description": "A mod pack designed to enhance Valheim's quality of life while preserving the core difficulty of the game. Simplifies farming, adds storage solutions.",
     "dependencies": [
@@ -40,6 +40,9 @@
         "Azumatt-QuickTapDodge-1.0.3",
         "Azumatt-Sleepover-1.1.4",
         "Azumatt-AzuSkillTweaks-1.0.4",
-        "Azumatt-DeathPinRemoval-1.0.5"
+        "Azumatt-DeathPinRemoval-1.0.5",
+        "Niveaux de turbero-détailed Levels-1.3.5",
+        "Alpus-SaveFrequency-1.0.0",
+        "Smoothbrain-SmoothSave-1.0.5"
     ]
 }

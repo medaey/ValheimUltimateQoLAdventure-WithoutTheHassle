@@ -1,5 +1,10 @@
 # Changelog
 
+24.12.262154
+- Added mod level detailed
+- Added mod SaveFrequency
+- Added mod SmoothSave
+
 24.12.260806
 - fix equipement wheel hotkey
 

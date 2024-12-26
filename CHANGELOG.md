@@ -1,7 +1,7 @@
 # Changelog
 
 24.12.262154
-- Added mod level detailed
+- Added mod DetailedLevels
 - Added mod SaveFrequency
 - Added mod SmoothSave
 

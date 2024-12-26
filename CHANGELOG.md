@@ -1,5 +1,8 @@
 # Changelog
 
+24.12.260359
+- Valhiem plus change config.
+
 24.12.260200
 - QuickTapDodge 0.18 to 0.25
 

@@ -1,5 +1,9 @@
 # Changelog
 
+24.12.260144
+- Fix PlantEasily config
+- Fix PlantEverything config
+
 24.12.240116
 - PlantEasily HarvestRadius increas 3 to 15
 

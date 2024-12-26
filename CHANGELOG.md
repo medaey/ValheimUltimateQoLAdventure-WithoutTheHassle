@@ -1,5 +1,8 @@
 # Changelog
 
+24.12.262203
+- Remove not work mod "SmoothSave"
+
 24.12.262154
 - Added mod DetailedLevels
 - Added mod SaveFrequency

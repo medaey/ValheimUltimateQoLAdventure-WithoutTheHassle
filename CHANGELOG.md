@@ -1,5 +1,8 @@
 # Changelog
 
+24.12.262223
+- Increase HarvestRadius 3 to 20
+
 24.12.262214
 - Added Mod MorePins
 - fix Equip Wheel Hotkey

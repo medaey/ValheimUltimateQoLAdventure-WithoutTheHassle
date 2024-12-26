@@ -1,5 +1,9 @@
 # Changelog
 
+24.12.262214
+- Added Mod MorePins
+- fix Equip Wheel Hotkey
+
 24.12.262203
 - Remove not work mod "SmoothSave"
 

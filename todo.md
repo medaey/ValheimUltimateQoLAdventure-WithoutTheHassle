@@ -1,3 +1,3 @@
 - [ ] config PlantEasily.cfg not working "rows and Columns"
-- [ ] PlantEverything add config
-- [ ] Add mod MoreMapPins ""
+- [x] Add mod MoreMapPins ""
+- [x] Fix Equip Wheel mod Hotkey

@@ -1,5 +1,8 @@
 # Changelog
 
+24.12.260806
+- fix equipement wheel hotkey
+
 24.12.260800
 - fix equipement wheel hotkey
 

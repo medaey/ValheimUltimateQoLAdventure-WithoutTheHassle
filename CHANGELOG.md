@@ -1,5 +1,8 @@
 # Changelog
 
+24.12.262248
+- Increase planting grid row 5 to 10
+
 24.12.262223
 - Increase HarvestRadius 3 to 20
 

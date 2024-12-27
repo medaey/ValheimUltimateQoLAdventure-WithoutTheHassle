@@ -1,5 +1,12 @@
 # Changelog
 
+24.12.270345
+- add mod PlanBuild
+- add mod OdinTrainingPlace
+- add mod CustomAudio-LocationMusic
+- add mod FishTrap
+- add mod PetPantry
+
 24.12.270054
 - Added config for Veinmine
 - Update README

@@ -1,5 +1,8 @@
 # Changelog
 
+24.12.270411
+- add mod PingTweaks
+
 24.12.270345
 - add mod PlanBuild
 - add mod OdinTrainingPlace

@@ -1,5 +1,8 @@
 # Changelog
 
+24.12.270458
+- add mod HipLantern
+
 24.12.270454
 - add mod Plateautem
 - add mod SeedTotem

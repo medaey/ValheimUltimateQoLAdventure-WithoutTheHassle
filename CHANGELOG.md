@@ -1,5 +1,13 @@
 # Changelog
 
+24.12.2707
+- remove mod OdinTrainingPlace
+- remove mod CraftingStationsLevelBasedBuildRange
+- remove mod Plateautem
+- add mod ElderscrollianThemedSoundtrack
+- add mod SearchableBuildMenu
+- add mod SeedBed
+
 24.12.270605
 - dicrease Fiddlehead farming
 - dicrease Smokepuff farming

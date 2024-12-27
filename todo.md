@@ -1,1 +1,1 @@
-- [x] Fix Equip Wheel mod Hotkey
+- plan build a confirmer

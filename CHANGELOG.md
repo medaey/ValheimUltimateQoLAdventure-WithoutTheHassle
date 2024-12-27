@@ -1,5 +1,11 @@
 # Changelog
 
+24.12.272300
+- Hip Lanter uses Resin for refueling
+- Configure mod SeedTotem to not check the biome
+- Configure mod PlantEverything set RespawnTime to 480
+- Remove mod SeedBed
+
 24.12.272200
 - update mod Warfare
 - update mod HookGenPatch

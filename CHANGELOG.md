@@ -1,5 +1,10 @@
 # Changelog
 
+24.12.2708
+- remove mod MinecraftStuff
+- remove mod PlanBuild
+- update mod DiscoveryPins
+
 24.12.2707
 - remove mod OdinTrainingPlace
 - remove mod CraftingStationsLevelBasedBuildRange

@@ -1,5 +1,9 @@
 # Changelog
 
+24.12.270454
+- add mod Plateautem
+- add mod SeedTotem
+
 24.12.270425
 - add mod Colored_Food_UI
 - dicrease Return planting gift everything

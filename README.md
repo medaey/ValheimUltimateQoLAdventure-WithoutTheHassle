@@ -8,6 +8,7 @@ This modpack includes a variety of Quality of Life (QoL) mods, each carefully ch
 
 ## Mod Features
 
+- **Veinmine**: Press **Left Alt** to mine an entire vein. It deals higher durability damage and grants less XP but ensures faster efficiency.
 - **Mod Configuration Customization**: Press **F1** to access the customization interface and adjust mod settings to your preferences
 - **Quick Teleportation**: Easily teleport to any location with the **OdinPlus-QuickTeleport** and **OdinPlus-TeleportEverything** mods.
 - **Storage Made Simple**: Use **XStorage** and **ItemDrawers** for an efficient and organized inventory system.

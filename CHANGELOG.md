@@ -1,5 +1,9 @@
 # Changelog
 
+24.12.270054
+- Added config for Veinmine
+- Update README
+
 24.12.262248
 - Increase planting grid row 5 to 10
 

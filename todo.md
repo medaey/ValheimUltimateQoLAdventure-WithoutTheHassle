@@ -1,2 +1,3 @@
-- [x] Add mod MoreMapPins ""
+- [x] Add mod MoreMapPins
 - [x] Fix Equip Wheel mod Hotkey
+- [ ] Change mod minig by "Smoothbrain-Mining-1.1.5"

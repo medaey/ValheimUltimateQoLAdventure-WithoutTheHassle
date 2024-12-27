@@ -1,5 +1,9 @@
 # Changelog
 
+24.12.270605
+- dicrease Fiddlehead farming
+- dicrease Smokepuff farming
+
 24.12.270458
 - add mod HipLantern
 

@@ -1,5 +1,9 @@
 # Changelog
 
+24.12.272200
+- update mod Warfare
+- update mod HookGenPatch
+
 24.12.270900
 - remove mod ElderscrollianThemedSoundtrack
 

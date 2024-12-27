@@ -1,9 +1,11 @@
 # Changelog
 
+24.12.2709
+- remove mod ElderscrollianThemedSoundtrack
+
 24.12.2708
 - remove mod MinecraftStuff
 - remove mod PlanBuild
-- remove mod ElderscrollianThemedSoundtrack
 - update mod DiscoveryPins
 
 24.12.2707

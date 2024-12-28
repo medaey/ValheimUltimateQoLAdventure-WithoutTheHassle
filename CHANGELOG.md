@@ -1,4 +1,9 @@
 # Changelog
+24.12.280300
+- Configure mod QuickTapDodge 0.25 to 0.18
+- add mod BetterSplitDialog
+- add mod PerfectPlacement
+
 24.12.280200
 - Configure mod TeleportEverything Transport Only named entity
 

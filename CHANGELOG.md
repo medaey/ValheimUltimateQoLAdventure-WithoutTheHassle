@@ -1,4 +1,6 @@
 # Changelog
+24.12.280200
+- Configure mod TeleportEverything Transport Only named entity
 
 24.12.280100
 - Configure mod valheim_plus increase Windmill maximumBerley  10 to 100

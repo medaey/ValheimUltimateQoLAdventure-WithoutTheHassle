@@ -1,5 +1,9 @@
 # Changelog
 
+24.12.280100
+- Configure mod valheim_plus increase Windmill maximumBerley  10 to 100
+- Configure mod valheim_plus increase Windmill productionSpeed
+
 24.12.272300
 - Hip Lanter uses Resin for refueling
 - Configure mod SeedTotem to not check the biome

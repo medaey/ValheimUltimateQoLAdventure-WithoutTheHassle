@@ -1,6 +1,6 @@
 {
     "name": "Valheim_Ultimate_QoL_Adventure",
-    "version_number": "24.12.280300",
+    "version_number": "24.12.281000",
     "website_url": "https://github.com/medaey/ValheimUltimateQoLAdventure-WithoutTheHassle",
     "description": "A mod pack designed to enhance Valheim's quality of life while preserving the core difficulty of the game. Simplifies farming, adds storage solutions.",
     "dependencies": [
@@ -52,6 +52,7 @@
         "Azumatt-SearchableBuildMenu-1.0.4",
         "ValheimModding-HookGenPatcher-0.0.4",
         "turbero-BetterSplitDialog-1.0.4",
-        "Azumatt-PerfectPlacement-1.2.1"
+        "Azumatt-PerfectPlacement-1.2.1",
+        "Yggdrah-BetterRiding-1.0.9"
     ]
 }

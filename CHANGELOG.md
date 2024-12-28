@@ -1,4 +1,7 @@
 # Changelog
+24.12.281000
+- add mod BetterRiding
+
 24.12.280300
 - Configure mod QuickTapDodge 0.25 to 0.18
 - add mod BetterSplitDialog

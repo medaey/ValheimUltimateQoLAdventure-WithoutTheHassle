@@ -1,4 +1,7 @@
 # Changelog
+24.12.300400
+- Fix PlantEverything config
+
 24.12.281000
 - add mod BetterRiding
 

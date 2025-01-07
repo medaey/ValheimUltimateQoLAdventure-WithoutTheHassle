@@ -1,4 +1,8 @@
 # Changelog
+
+25.1.42335
+- update DiscoveryPins 0.3.4 -> 0.3.6
+
 24.12.300400
 - Fix PlantEverything config
 

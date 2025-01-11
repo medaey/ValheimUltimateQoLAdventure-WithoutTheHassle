@@ -1,5 +1,9 @@
 # Changelog
 
+25.1.112240
+- update Therzie-Warfare-1.8.6 -> Therzie-Warfare-1.8.8
+- Fix otunPuffsReturn 1 to 2
+
 25.1.42335
 - update DiscoveryPins 0.3.4 -> 0.3.6
 

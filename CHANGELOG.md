@@ -1,5 +1,10 @@
 # Changelog
 
+25.1.122220
+- add mod Cooking_Station_Tweaks
+- add mod FoodSorting
+- add mod Transmog
+
 25.1.112240
 - update Therzie-Warfare-1.8.6 -> Therzie-Warfare-1.8.8
 - Fix otunPuffsReturn 1 to 2
